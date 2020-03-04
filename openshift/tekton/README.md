@@ -62,7 +62,7 @@ spec:
           - name: revision
             value: master
           - name: url
-            value: https://github.com/ncskier/myapp
+            value: https://github.com/rnapoles-tktn/myapp
     - name: image
       resourceSpec:
         type: image
